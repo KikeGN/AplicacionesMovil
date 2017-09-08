@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="title_activity_datos">Datos</string>
+    <string name="usuario">USUARIO:</string>
+    <string name="email">EMAIL:</string>
+    <string name="telefono">TELEFONO:</string>
+    <string name="fecha_nacimiento">FECHA NACIMIENTO:</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="twitter">TWITTER:</string>
+    <string name="kike_bmx">KIKE-BMX</string>
+    <string name="agregar_contacto">AGREGAR CONTACTO</string>
+    <string name="actualizar">ACTUALIZAR</string>
+</resources>
